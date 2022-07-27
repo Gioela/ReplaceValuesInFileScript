@@ -1,4 +1,4 @@
-# **ReplaceValuesInCsv**
+# **ReplaceValuesInCsv Project**
 
 Replace Values in csv is a Python script that creates a new file from the first but with the replacement values.
 This script could be executed from command line in two different ways: with default or custom list substitutions.
